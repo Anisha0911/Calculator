@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.clc_div {
+    max-width: 1024px;
+    border: 2px solid black;
+    margin: 2rem auto;
+}
+.calc {
+    background-color: black;
+    padding: 4rem 0rem 4rem 0rem ;
+}
+.display {
+    margin-bottom: 1.5rem;
+}
+input#display {
+    width: 82%;
+    height: 5rem;
+    border-radius: 20px;
+    font-size: 25px;
+    padding-left: 20px;
+}
+button.btndesign {
+    width: 20%;
+    height: 3rem;
+    font-size: 19px;
+    font-weight: 700;
+    border-radius: 20px;
+}
+.copyright {
+    font-weight: 700;
+    font-size: 20px;
+    padding-bottom: 4rem;
+}
